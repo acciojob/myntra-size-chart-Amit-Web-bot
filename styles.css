@@ -1,2 +1,15 @@
-
 /* Your CSS Code here. */
+table {
+	font-size:20px;
+	text-align: left;
+	border:1px;
+	border: solid;
+}
+th{
+	border: solid;
+	width:10%;
+	background-color: rgb(170,86,86);
+}
+td{
+	border:solid;
+}
